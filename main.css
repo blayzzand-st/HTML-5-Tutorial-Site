@@ -1,0 +1,10 @@
+html {
+    font-size: 22px;
+}
+
+table, tr, th, td, caption {
+    font-family: 'Courier New', Courier, monospace;
+    border: 1px solid #4b4b4b;
+    border-collapse: collapse;
+    padding: 0.5em;
+}
